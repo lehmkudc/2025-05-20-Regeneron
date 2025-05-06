@@ -15,7 +15,7 @@ startdate: 2025-05-20      # machine-readable start date for the workshop in YYY
 enddate: 2025-05-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Marina Lehmkuhl", "Ayush Saxena"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [] 
-email: ["marina.lehmkuhl@regeneron.com","marina.lehmkuhl@regeneron.com"]  
+email: ["marina.lehmkuhl@regeneron.com","ayushshekhar.saxena@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
